@@ -28,5 +28,3 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase)
 
 ![radical][radical_repo]
-
-[radical_repo]: https://github-readme-stats.vercel.app/api/top-langs?username=janakansureshraj&cache_seconds=60&theme=radical&langs_count=8&layout=compact
