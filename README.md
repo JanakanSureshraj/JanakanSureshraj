@@ -1,4 +1,8 @@
-## ⚡ What I build with :)
+## :hammer_and_wrench: Work that shaped how I build.
+
+From product development to backend engineering, each experience has pushed me toward building systems that are useful, maintainable and resilient.
+
+## ⚡ Stack learned/used.
 
 ![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=java)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
@@ -26,3 +30,13 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![RStudio](https://img.shields.io/badge/-RStudio-75AADB?style=flat-square&logo=rstudio)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase)
+
+## 💡 I like understanding what's underneath.
+
+I learn best by building, taking systems apart, and then rebuilding them better.
+
+I'm a software developer interested in the architecture behind useful products — APIs, distributed systems, data flows and the engineering decisions that make software dependable.
+
+My interests are gradually moving toward intelligent systems: computer vision, machine learning and robotics. I'm especially drawn to projects where software has to perceive, decide and act in the real world.
+
+##### always learning, always improving :)
